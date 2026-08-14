@@ -52,19 +52,19 @@ The dataset contains customer demographics, services subscribed, account informa
 ## Power BI Dashboard
 
 ### Page 1: Executive Summary
-![Executive Summary](Images/executive_summary.png)
+![Executive Summary](Images/Executive Summary.png)
 
 ### Page 2: Customer Segmentation
-![Customer Segmentation](Images/customer_segmentation.png)
+![Customer Segmentation](Images/Customer Segmentation.png)
 
 ### Page 3: Service Impact Analysis
-![Service Impact Analysis](Images/service_analysis.png)
+![Service Impact Analysis](Images/Service Analysis.png)
 
 ### Page 4: Revenue Risk Analysis
-![Revenue Risk Analysis](Images/revenue_risk_analysis.png)
+![Revenue Risk Analysis](Images/Revenue Risk Analysis.png)
 
 ### Page 5: Customer Risk & Retention Action
-![Customer Risk Action](Images/customer_risk_action.png)
+![Customer Risk and Retention Action](Images/Customer Risk and Retention Action.png)
 
 ## Key Insights
 
